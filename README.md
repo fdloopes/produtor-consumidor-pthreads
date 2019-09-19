@@ -5,5 +5,7 @@ Solucao utilizando o minimo de variaveis estaticas possiveis, sendo realizada a 
 Para isso foi feito uso de Mutex para areas criticas, e, para controle de acesso, variaveis de condicao.
 
 Author: Felipe Lopes
+
 Data_inicio: 15/09/19
+
 Data_termino: 19/09/19
